@@ -7,29 +7,31 @@ client.on('ready', () => {
 });
 
 client.on('ready', async() => {
-var server = "499213116941533184"; // ايدي السررفر
-var channel = "502827265281884161";//ايدي الروم
+var server = "516292477372727306"; // ايدي السررفر
+var channel = "516292477372727309";//ايدي الروم
     setInterval(()=>{
     client.guilds.get(server).channels.get(channel).send('**top ♥ ,top , top , top , top , top , top , top , top , top ,top ,top , top **')
     },305);
 })
 client.on('ready', async() => {
-var server = "499213116941533184"; // ايدي السررفر
-var channel = "502827265281884161";//ايدي الروم
+var server = "516292477372727306"; // ايدي السررفر
+var channel = "516292477372727309";//االروم
     setInterval(()=>{
     client.guilds.get(server).channels.get(channel).send('** Welcome Back , Welcome Back , Welcome Back , Welcome Back , Welcome Back , Welcome Back , Welcome Back , Welcome Back , Welcome Back , Welcome Back , Welcome Back , Welcome Back , Welcome Back , Welcome Back , Welcome Back , Welcome Back , Welcome Back , Welcome Back , Welcome Back , **')
     },610);
 })
 client.on('ready', async() => {
-var server = "499213116941533184"; // ايدي السررفر
-var channel = "502827265281884161";//ايدي الروم
+var server = "516292477372727306"; // ايدي السررفر
+var channel = "516292477372727309";//اايدي الروم
     setInterval(()=>{
-    client.guilds.get(server).channels.get(channel).send('** -Mal , Shop , -Mal , Shop , -Mal , Shop , -Mal , Shop , -Mal , Shop , -Mal , Shop , -Mal , Shop , -Mal , Shop , -Mal , Shop , -Mal , Shop , -Mal , Shop , -Mal , Shop , -Mal , Shop , -Mal , Shop , -Mal , Shop , -Mal , Shop , -Mal , Shop , -Mal , Shop , -Mal , Shop , -Mal , Shop , -Mal , Shop , -Mal , Shop , -Mal , Shop , -Mal , Shop , -Mal , Shop , -Mal , Shop , -Mal , Shop , -Mal , Shop , -Mal , Shop , -Mal , Shop , -Mal , Shop , -Mal , Shop , -Mal , Shop , -Mal , Shop , -Mal , Shop , -Mal , Shop , -Mal , Shop , -Mal , Shop , -Mal , Shop , -Mal , Shop , -Mal , Shop , -Mal , Shop , -Mal , Shop , **')
+    client.guilds.get(server).channels.get(channel).send('** »Top ♥ Top♥ , Welcome ,  »Top ♥ Top♥ , Welcome , »Top ♥ Top♥ , Welcome , »Top ♥ Top♥ , Welcome , »Top ♥ Top♥ , Welcome , »Top ♥ Top♥ , Welcome , »Top ♥ Top♥ , Welcome , »Top ♥ Top♥ , Welcome , »Top ♥ Top♥ , Welcome , »Top ♥ Top♥ , Welcome , »Top ♥ Top♥ , Welcome , »Top ♥ Top♥ , Welcome , »Top ♥ Top♥ , Welcome , »Top ♥ Top♥ , Welcome , »Top ♥ Top♥ , Welcome , »Top ♥ Top♥ , Welcome , »Top ♥ Top♥ , Welcome , »Top ♥ Top♥ , Welcome , »Top ♥ Top♥ , Welcome , »Top ♥ Top♥ , Welcome , »Top ♥ Top♥ , Welcome , »Top ♥ Top♥ , Welcome , »Top ♥ Top♥ , Welcome , »Top ♥ Top♥ , Welcome , »Top ♥ Top♥ , Welcome , »Top ♥ Top♥ , Welcome , »Top ♥ Top♥ , Welcome , »Top ♥ Top♥ , Welcome , »Top ♥ Top♥ , Welcome , »Top ♥ Top♥ , Welcome , »Top ♥ Top♥ , Welcome , »Top ♥ Top♥ , Welcome , »Top ♥ Top♥ , Welcome , »Top ♥ Top♥ , Welcome , »Top ♥ Top♥ , Welcome , »Top ♥ Top♥ , Welcome , »Top ♥ Top♥ , Welcome , »Top ♥ Top♥ , Welcome , »Top ♥ Top♥ , Welcome , »Top ♥ Top♥ , Welcome , »Top ♥ Top♥ , Welcome , »Top ♥ Top♥ , Welcome , »Top ♥ Top♥ , Welcome ,  **')
     },915);
 })
+
+
 client.on('ready', async() => {
-var server = "499213116941533184"; // ايدي السررفر
-var channel = "502827265281884161";//ايدي الروم
+var server = "516292477372727306"; // ايدي السررفر
+var channel = "516292477372727309";//اايدي الروم
     setInterval(()=>{
     client.guilds.get(server).channels.get(channel).send('** »Top ♥ Top♥ , Welcome ,  »Top ♥ Top♥ , Welcome , »Top ♥ Top♥ , Welcome , »Top ♥ Top♥ , Welcome , »Top ♥ Top♥ , Welcome , »Top ♥ Top♥ , Welcome , »Top ♥ Top♥ , Welcome , »Top ♥ Top♥ , Welcome , »Top ♥ Top♥ , Welcome , »Top ♥ Top♥ , Welcome , »Top ♥ Top♥ , Welcome , »Top ♥ Top♥ , Welcome , »Top ♥ Top♥ , Welcome , »Top ♥ Top♥ , Welcome , »Top ♥ Top♥ , Welcome , »Top ♥ Top♥ , Welcome , »Top ♥ Top♥ , Welcome , »Top ♥ Top♥ , Welcome , »Top ♥ Top♥ , Welcome , »Top ♥ Top♥ , Welcome , »Top ♥ Top♥ , Welcome , »Top ♥ Top♥ , Welcome , »Top ♥ Top♥ , Welcome , »Top ♥ Top♥ , Welcome , »Top ♥ Top♥ , Welcome , »Top ♥ Top♥ , Welcome , »Top ♥ Top♥ , Welcome , »Top ♥ Top♥ , Welcome , »Top ♥ Top♥ , Welcome , »Top ♥ Top♥ , Welcome , »Top ♥ Top♥ , Welcome , »Top ♥ Top♥ , Welcome , »Top ♥ Top♥ , Welcome , »Top ♥ Top♥ , Welcome , »Top ♥ Top♥ , Welcome , »Top ♥ Top♥ , Welcome , »Top ♥ Top♥ , Welcome , »Top ♥ Top♥ , Welcome , »Top ♥ Top♥ , Welcome , »Top ♥ Top♥ , Welcome , »Top ♥ Top♥ , Welcome , »Top ♥ Top♥ , Welcome , »Top ♥ Top♥ , Welcome ,  **')
     },1220);
@@ -42,16 +44,16 @@ var channel = "502827265281884161";//ايدي الروم
 
 ////////////////
 client.on('ready', async() => {
-var server = "499213116941533184"; // ايدي السررفر
-var channel = "502827265281884161";//ايدي الروم
+var server = "516292477372727306"; // ايدي السررفر
+var channel = "516292477372727309";//اايدي الروم
     setInterval(()=>{
     client.guilds.get(server).channels.get(channel).send('#daily')
     },8.64e+7);
 })
 
 client.on('ready', async() => {
-var server = "499213116941533184"; // ايدي السررفر
-var channel = "502827265281884161";//ايدي الروم
+var server = "516292477372727306"; // ايدي السررفر
+var channel = "516292477372727309";//اايدي الروم
     setInterval(()=>{
     client.guilds.get(server).channels.get(channel).send('#rep <@411137717884289024>')
     },8.64e+7);
@@ -64,7 +66,7 @@ var channel = "502827265281884161";//ايدي الروم
 
 client.on('message', message => {
 if(message.content.startsWith('1s')) {
-if(message.author.id !== "411137717884289024") return;
+if(message.author.id !== "356896203688116234") return;
 var args = message.content.split(' ').slice(1).join(' ');
 message.channel.send(args);
 }
